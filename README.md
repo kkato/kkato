@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken</h1>
 <h3 align="center">A database engineer from Japan</h3>
 
-- 🌱 I’m currently learning **kubernetes, Prometheus, Grafana**
+- 🌱 I’m currently learning **PostgreSQL, kubernetes, Prometheus, Grafana**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
