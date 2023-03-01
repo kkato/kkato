@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, k8s, Prometheus, Go**
 
-- 👨‍💻 All of my projects are available at [https://kkato.dev/portfolios/](https://kkato.dev/projects/)
+- 👨‍💻 All of my projects are available at [https://kkato.dev/projects/](https://kkato.dev/projects/)
 
 - 📝 I regularly write articles on [https://zenn.dev/kenkato](https://zenn.dev/kenkato)
 
