@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken</h1>
 <h3 align="center">A database engineer from Japan</h3>
 
-- 🔭 I’m currently working on [the-odin-project](https://www.theodinproject.com/)
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
 - 🌱 I’m currently learning **PostgreSQL, k8s, Prometheus, Go**
 
