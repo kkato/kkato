@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken</h1>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kkato" alt="kkato" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kkato&rank_icon=github" alt="kkato" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kkato&rank_icon=github" alt="kkato" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kkato&layout=compact" alt="kkato" /></p>
 
 <!--
 **kkato/kkato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
