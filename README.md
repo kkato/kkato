@@ -1,7 +1,11 @@
+![](https://komarev.com/ghpvc/?username=kkato)
+
 <h1 align="center">Hi 👋, I'm Ken</h1>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kkato&rank_icon=github" alt="kkato" /></p>
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kkato&layout=compact" alt="kkato" /></p>
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kkato&layout=compact&rank_icon=github" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkato&rank_icon=github&layout=compact&show_icons=true" alt="kkato" />
+</p>
 
 <!--
 **kkato/kkato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
