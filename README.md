@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=kkato)
 
-<h1 align="center">Hi 👋, I'm Ken </h1>
-
 <p>
   <li> Infrastructure Engineer at Wantedly </li> 
   <li> Working with Kubernetes, PostgreSQL, AWS, Terraform </li>  
