@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kkato)
 
-<h1 align="center">Hi 👋, I'm Ken Kato</h1>
+<h1 align="center">Hi 👋, I'm Ken </h1>
 
 <p>
   <li> Infrastructure Engineer at Wantedly </li> 
