@@ -4,7 +4,6 @@
   <li> Infrastructure Engineer at Wantedly </li> 
   <li> Working with Kubernetes, PostgreSQL, AWS, Terraform </li>  
   <li> Interested in Databases (PostgreSQL) </li> 
-  <li> My tech blog https://kkato.dev/  </li>  
 </p>
 
 <p align="center">
