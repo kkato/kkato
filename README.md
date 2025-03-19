@@ -3,7 +3,7 @@
 <p>
   <li> Infrastructure Engineer at Wantedly </li> 
   <li> Working with Kubernetes, PostgreSQL, AWS, Terraform </li>  
-  <li> Interested in Databases (PostgreSQL) </li> 
+  <li> Interested in Databases (especially PostgreSQL) </li> 
 </p>
 
 <p align="center">
