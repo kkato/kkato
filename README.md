@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I’m Ken 👋
+
+- Infrastructure engineer at @wantedly
+- Working with Kubernetes, PostgreSQL, AWS, Terraform, and Go
+- Interested in databases (especially PostgreSQL)
+- In my free time: bouldering, cooking, and traveling
 
 <!--
 **kkato/kkato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
