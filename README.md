@@ -1,7 +1,8 @@
 ## Hi I’m Ken 👋
 
 - Infrastructure engineer at [@wantedly](https://wantedlyinc.com/)
-- Working with Kubernetes, PostgreSQL, AWS, Terraform, and Go
+- Working with Kubernetes, PostgreSQL, AWS, and Terraform
+- Programming in Go, and C
 - Interested in contributing to OSS
 - In my free time: bouldering, cooking, and traveling
 
