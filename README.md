@@ -4,7 +4,7 @@
 - Working with Kubernetes, PostgreSQL, AWS, and Terraform
 - Programming in Go, and C
 - Interested in contributing to OSS
-- In my free time: I enjoy bouldering, cooking, and traveling
+- In my free time, I enjoy bouldering, cooking, and traveling
 
 <!--
 **kkato/kkato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
