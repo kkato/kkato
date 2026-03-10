@@ -2,7 +2,7 @@
 
 - Infrastructure engineer at [@wantedly](https://wantedlyinc.com/)
 - Working with Kubernetes, PostgreSQL, AWS, and Terraform
-- Programming in Go, and C
+- Programming in Go and C
 - Interested in contributing to OSS
 - In my free time, I enjoy bouldering, cooking, and traveling
 
